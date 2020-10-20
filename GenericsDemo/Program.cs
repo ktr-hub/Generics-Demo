@@ -6,7 +6,6 @@ namespace GenericsDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to C# Generics");
             //Declaring arrays
             int[] intArray = { 1, 2, 3, 4 };
             double[] doubleArray = { 1.1, 2.2, 3.3, 4.4 };
